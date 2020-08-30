@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+/* cursor*/
+.text-type{
+  color: blue;
+  font-weight: bold;
+  font-family: Monospace;
+  font-size: 18px;
+}
+.text-type>  .txt{
+    border-right: 0.2rem solid #fff; 
+}
+
